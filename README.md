@@ -1,2 +1,2 @@
-# hugo-landing-page-bootstrap
+# Landing Page Template - Hugo - Bootstrap
 Hugo Landing Page Template
