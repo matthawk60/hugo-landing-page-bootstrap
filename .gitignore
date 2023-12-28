@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# Hugo and Node related
+/resources/
+/node_modules/
